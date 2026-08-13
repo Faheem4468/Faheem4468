@@ -21,7 +21,7 @@
 
 ## 👨‍💻 About Me
 
-* 🎓 Software Engineering student at the **University of the South Pacific (USP)**
+* 🎓 Software Engineer  at the **TKW Research)**
 * 🇫🇯 Based in Fiji
 * 💻 Passionate about **software development, system design and technology**
 * 🚀 Interested in building practical solutions to real-world problems
@@ -137,26 +137,6 @@ A scalable inventory and asset management platform designed to manage organizati
 
 ---
 
-## 🎫 Ezee Request Tracker
-
-**Service Management • Web Application • Mobile Data Entry**
-
-An automated operations and service ticketing platform designed to streamline service requests and field operations.
-
-### Key Features
-
-* 🎫 Service request management
-* 📱 Mobile data entry
-* 📷 Image attachments
-* 📍 Location capture
-* 📦 Asset tracking
-* 🔎 Barcode scanning
-* 🔄 Request workflow
-* 👥 Assignment management
-* 📊 Reporting and analytics
-* 🌐 Web-based administration
-
----
 
 ## 🚌 Transport Booking System
 
