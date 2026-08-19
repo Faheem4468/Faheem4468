@@ -1,15 +1,15 @@
-# 👋 Hey, I'm Faheem Hussein 🚀
+# 👋 Hey, I'm Faheem Hussein ✨
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,35:203a43,70:2c5364,100:00c6ff&height=220&section=header&text=FAHEEM%20HUSSEIN&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,25:203a43,50:2c5364,75:0072ff,100:00c6ff&height=200&section=header&text=Faheem%20Hussein&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <p align="center">
-  <strong>💻 Software Engineer • 🏗️ System Builder • 🚀 Full-Stack Developer • 🤖 AI-Assisted Developer • 🔐 Security Enthusiast</strong>
+  <strong>💻 Software Engineer • 🚀 Developer • 🧩 System Builder • 🤖 AI Explorer • 🔐 Security Enthusiast</strong>
 </p>
 
 <p align="center">
-  <em>Turning ideas, requirements and problems into practical software.</em>
+  <em>Turning ideas, problems and requirements into real-world software.</em>
 </p>
 
 <p align="center">
@@ -19,413 +19,341 @@
   <a href="https://github.com/Faheem4468?tab=followers">
     <img src="https://img.shields.io/github/followers/Faheem4468?label=Followers&style=for-the-badge&logo=github" />
   </a>
-  <img src="https://img.shields.io/github/stars/Faheem4468?label=GitHub%20Stars&style=for-the-badge&logo=github" />
+  <a href="https://github.com/Faheem4468">
+    <img src="https://img.shields.io/github/stars/Faheem4468?label=Stars&style=for-the-badge&logo=github" />
+  </a>
 </p>
 
 ---
 
-# 🧑‍💻 About Me
+## 🧑‍💻 About Me
 
-I'm a **Software Engineering student and developer based in Fiji**, passionate about building software that solves actual business and operational problems.
+🎓 Software Engineering student and developer based in **🇫🇯 Fiji**
 
-My interests sit at the intersection of:
+💻 Passionate about **software development, system design, databases and technology**
 
-**Software Engineering + System Design + Business Systems + Automation + AI + Information Security**
+🚀 I enjoy building **practical software that solves real-world problems**
 
-I enjoy working across the entire development lifecycle — from understanding requirements and designing databases to building backend logic, APIs, user interfaces, authentication systems and deployment workflows.
+🧩 Interested in **business systems, automation, APIs and scalable applications**
 
-### ⚡ What I Do
+🎨 Interested in **UI/UX, Figma and creative digital experiences**
 
-* 💻 Build web applications and business systems
-* 🏗️ Design scalable software architectures
-* 🗄️ Design and work with relational databases
-* 🔐 Implement authentication, authorization and role-based access
-* 🔌 Build and integrate APIs
-* 📊 Develop dashboards and reporting systems
-* 📦 Build inventory and asset management systems
-* 🎫 Develop service and ticketing workflows
-* 🤖 Explore AI-assisted software development
-* 🎨 Design interfaces and prototypes with Figma
-* 🛡️ Work with information security and ISO 27001 concepts
-* ☁️ Explore deployment, DevOps and modern development workflows
+🤖 Exploring **AI-assisted development, automation and emerging technologies**
 
-> **"Don't just write code. Understand the problem, design the solution, then build it properly."** 🚀
+🔐 Interested in **cybersecurity, information security and ISO 27001**
+
+🗄️ Comfortable working with **relational databases and database-driven applications**
+
+🌐 Experienced with **web applications, websites, CMS platforms and business systems**
+
+📱 Exploring **mobile application development and mobile-ready APIs**
+
+🛠️ I enjoy working across the stack — from **database design → backend → APIs → frontend → deployment**
+
+📚 Continuously learning new technologies and improving my engineering skills
+
+🤝 Open to collaborating on **software, technology and open-source projects**
+
+> **"Build something useful. Learn something new. Improve every day."** 🚀
 
 ---
 
-# 🏆 Developer Highlights
+# 🌐 Connect With Me
 
-<p align="center">
+<p align="left">
 
-<table>
-<tr>
+<a href="https://github.com/Faheem4468">
+  <img src="https://img.shields.io/badge/GitHub-Faheem4468-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-<td align="center" width="25%">
-<h2>🚀</h2>
-<strong>Full-Stack</strong><br/>
-Web & Business Systems
-</td>
-
-<td align="center" width="25%">
-<h2>🏗️</h2>
-<strong>System Design</strong><br/>
-Scalable Applications
-</td>
-
-<td align="center" width="25%">
-<h2>🤖</h2>
-<strong>AI-Assisted</strong><br/>
-Modern Development
-</td>
-
-<td align="center" width="25%">
-<h2>🔐</h2>
-<strong>Security</strong><br/>
-ISO 27001 & Cybersecurity
-</td>
-
-</tr>
-</table>
+<a href="https://www.linkedin.com/in/faheem-hussein-786175229/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 </p>
 
 ---
 
-# 🧰 Tech Stack
+# 💻 Tech Stack
 
 ## 🚀 Programming Languages
 
-### Core / Experienced
-
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=php,java,js,python,cpp,html,css" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
 </p>
-
-| Language      | Focus                                      |
-| ------------- | ------------------------------------------ |
-| 🐘 PHP        | Backend & Laravel development              |
-| ☕ Java        | Application development & software testing |
-| 🟨 JavaScript | Web applications & frontend logic          |
-| 🐍 Python     | Programming, automation & experimentation  |
-| ⚙️ C++        | Programming fundamentals                   |
-| 🌐 HTML5      | Web structure                              |
-| 🎨 CSS3       | Web styling & responsive UI                |
-| 🗃️ SQL       | Database design & querying                 |
-
-### 🌱 Exploring / Expanding
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=ts,cs,dart,bash" />
-
-</p>
-
-* TypeScript
-* C#
-* Dart
-* Bash / Shell scripting
 
 ---
 
-# ⚙️ Frameworks & Libraries
+## ⚙️ Frameworks & Libraries
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=laravel,bootstrap,tailwind,react,nodejs,vite" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+<img src="https://img.shields.io/badge/Blade-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 
 </p>
 
-### 🧱 Web & Backend
+### 📱 Mobile & Application Development
 
-* 🟥 Laravel
-* 🟩 Node.js
-* ⚡ Vite
-* 🟦 Bootstrap
-* 🌊 Tailwind CSS
-* 🔌 REST API development
-* 🔐 Laravel Sanctum
-* 🧩 Blade
+<p align="left">
 
-### 🌱 Exploring
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 
-* React
-* Vue
-* Express.js
-* Flutter
-* Spring Boot
+</p>
 
 ---
 
-# 🗄️ Databases
-
-### Core Databases
+## 🗄️ Databases
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 
 </p>
 
-* 🐬 MySQL
-* 🪶 SQLite
-* SQL
-* Relational database design
-* Database normalization
-* Relationships & foreign keys
-* Migrations
-* Query optimization
-* Data seeding
+### 🧠 Database Skills
 
-### 🌱 Exploring
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb" />
-
-</p>
-
-* PostgreSQL
-* MongoDB
-* NoSQL concepts
+* 🗄️ Relational database design
+* 🔗 Table relationships
+* 🔑 Primary & foreign keys
+* 📐 Database normalization
+* 🔄 Laravel migrations
+* 🌱 Database seeders
+* 🔍 SQL queries
+* 📊 Aggregation & reporting
+* ⚡ Query optimization
+* 🧩 Data modelling
 
 ---
 
-# 🌐 CMS & Web Platforms
+# 🌐 Web & CMS
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=wordpress" />
+<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 
 </p>
 
-### CMS
+### 🌍 Web Technologies
 
-* 📝 WordPress
-* 🌐 WordPress website development
-* 🎨 Theme customization
-* 🔌 Plugin-based functionality
-* 📱 Responsive websites
-
-### Web Platforms
-
-* Netlify
-* Laravel applications
-* PHP-based applications
-* Static websites
-
----
-
-# 🛠️ Development Tools
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,composer,figma" />
-
-</p>
-
-### 💻 Development
-
-* Visual Studio Code
-* Git
-* GitHub
-* Composer
-* npm
-* Node.js
-* XAMPP
-* PHP Artisan
-* Laravel Tinker
-
-### 🔌 API & Testing
-
-* Postman
+* HTML5
+* CSS3
+* JavaScript
+* PHP
+* Laravel
+* Bootstrap
+* Tailwind CSS
+* Responsive Web Design
 * REST APIs
-* API authentication
 * JSON
-* HTTP methods
-* API testing
+* Authentication
+* Role-based access control
 
-### 🎨 Design
+### 📝 CMS
 
-* Figma
-* UI/UX prototyping
-* Wireframing
-* Interface design
-* Design systems
+* WordPress
+* WordPress website development
+* Theme customization
+* Content management
+* Business websites
 
 ---
 
 # 🤖 AI Tools & AI-Assisted Development
 
-I'm interested in using AI as a **development accelerator**, while still understanding and validating the underlying code and architecture.
+<p align="left">
 
-### 🧠 AI Development
+<img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+<img src="https://img.shields.io/badge/AI%20Assisted%20Development-8A2BE2?style=for-the-badge&logo=ai&logoColor=white" />
 
-* ChatGPT
-* GitHub Copilot
-* AI-assisted debugging
-* AI-assisted code generation
-* AI-assisted documentation
-* Requirements analysis
-* Code refactoring
-* Software architecture brainstorming
-* Database design assistance
-* Test-case generation
-* Technical research
+</p>
 
-### 💡 How I Use AI
+### 🧠 AI in My Development Workflow
+
+* 🤖 AI-assisted coding
+* 🐛 AI-assisted debugging
+* 🧩 Architecture brainstorming
+* 🗄️ Database design assistance
+* 📝 Documentation generation
+* 🧪 Test-case generation
+* 🔍 Code analysis
+* ♻️ Refactoring assistance
+* 📚 Technical research
+* 💡 Requirements brainstorming
+* ⚡ Development productivity
 
 ```text
-Problem
-   ↓
-Understand Requirements
-   ↓
-Design Solution
-   ↓
-Use AI to Accelerate Development
-   ↓
-Review & Validate
-   ↓
-Test
-   ↓
-Refactor
-   ↓
-Deploy
+        💡 IDEA
+          │
+          ▼
+     🧠 ANALYSE
+          │
+          ▼
+      🏗️ DESIGN
+          │
+          ▼
+    🤖 AI ASSIST
+          │
+          ▼
+      💻 BUILD
+          │
+          ▼
+       🧪 TEST
+          │
+          ▼
+     🔍 REVIEW
+          │
+          ▼
+       🚀 SHIP
 ```
 
-> AI can generate code quickly. Understanding the code is still the developer's responsibility. 🧠
+> **AI helps me move faster — but understanding, reviewing and testing the code still matters.** 🧠
 
 ---
 
-# ☁️ Platforms & Business Technology
+# 🛠️ Tools & Platforms
 
-My development experience also extends beyond traditional coding environments.
+<p align="left">
 
-### 📞 Contact Center & Business Platforms
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" />
+<img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white" />
+<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
 
-* Zoom Contact Center
-* Zoom Phone
-* Zoom AI tools
-* Voxco
-* Survey platforms
-* IVR workflows
-* Customer service workflows
-* Reporting & analytics
+</p>
 
-### 📱 Low-Code / Rapid Development
+### 🔧 Development Environment
 
-* Google AppSheet
-* Barcode-based workflows
-* Mobile data collection
-* Business process automation
-
----
-
-# 🏗️ Software Engineering
-
-I enjoy working on the engineering side of software, not just writing individual features.
-
-### Areas
-
-* 🏗️ Software architecture
-* 📐 System design
-* 🗄️ Database architecture
-* 🔌 API design
-* 🔐 Authentication & authorization
-* 👥 Role-based access control
-* 🔄 Workflow design
-* 📊 Reporting systems
-* 🧪 Software testing
-* 🐛 Debugging
-* 📋 Requirements analysis
-* 📝 Technical documentation
-* 🔀 Git branching & version control
-* 🚀 Deployment workflows
+* 💻 Visual Studio Code
+* 🐙 Git
+* 🐙 GitHub
+* 📦 Composer
+* 📦 npm
+* 🧪 Postman
+* 🖥️ XAMPP
+* 🎨 Figma
+* ⚡ Laravel Artisan
+* 🔍 Laravel Tinker
 
 ---
 
-# 📦 Featured Project — STEMP Inventory Management System
+# 📞 Business & Automation Platforms
 
-### 🏢 Enterprise Inventory & Asset Management Platform
+<p align="left">
+
+<img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" />
+<img src="https://img.shields.io/badge/Voxco-Technology-203A43?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AppSheet-1A73E8?style=for-the-badge&logo=google&logoColor=white" />
+
+</p>
+
+### 💼 Experience With
+
+* 📞 Zoom Contact Center
+* ☎️ Zoom Phone
+* 🤖 Zoom AI tools
+* 📊 Voxco
+* 📋 Survey platforms
+* 🔄 IVR workflows
+* 📈 Reporting & analytics
+* 📱 Google AppSheet
+* 🔖 Barcode-based workflows
+* ⚙️ Business process automation
+
+---
+
+# 🚀 Featured Projects
+
+## 📦 STEMP Inventory Management System
 
 **Laravel • PHP • MySQL • Bootstrap • JavaScript • REST API • Sanctum**
 
 A scalable inventory and asset management platform designed to manage organizational assets, stock, departments, campuses, locations, assignments, transfers, maintenance and approval workflows.
 
-### 🚀 Key Features
+### ✨ Key Features
 
-* 📦 Asset management
+* 📋 Asset & inventory management
 * 🏢 Multi-campus organization
-* 🏫 Faculty / school / department structure
-* 📍 Building and room management
-* 👥 User and role management
-* 🔐 Role-based authorization
-* 🔄 Asset assignment
+* 🏫 Organizational hierarchy
+* 👥 User & role management
+* 🔐 Role-based access control
+* 🔄 Asset assignments
 * 🚚 Asset transfers
 * 🛠️ Maintenance management
-* 🗑️ Disposal workflows
+* 🗑️ Disposal management
 * 📋 Loss reporting
 * ✅ Configurable approval chains
-* 🔔 Notifications
-* 📊 Dashboard analytics
+* 🔔 Notification system
+* 📊 Dashboard & reporting
 * 📈 Demand prediction
 * 📷 Asset identification
 * 🔎 Barcode / QR scanning foundation
 * 📱 Mobile API foundation
-* 🔑 Token authentication with Sanctum
-* 🗄️ Database migrations and seeders
+* 🔑 Token authentication
+* 🗄️ Database migrations & seeders
 
-### 🧠 Engineering Concepts
+### 🧩 System Structure
 
 ```text
-Campus
-   ↓
-Faculty / School
-   ↓
-Department
-   ↓
-Building
-   ↓
-Room / Location
-   ↓
-Asset
-   ↓
-Assignment / Transfer / Maintenance
+                    🏢 STEMP
+                       │
+             ┌─────────┴─────────┐
+             │                   │
+         🏫 Campus           👥 Users
+             │                   │
+        🏛️ Faculty              🔐 Roles
+             │
+        🏢 Department
+             │
+        🏗️ Building
+             │
+        🚪 Room
+             │
+         📦 Asset
+        ┌────┼────┬─────┐
+        │    │    │     │
+       🔄   🛠️   🚚    🗑️
+   Assignment Maintenance Transfer Disposal
 ```
 
-This project has been developed through multiple iterative patches with a focus on **real-world organizational workflows, scalability and maintainability**.
-
 ---
 
-# 🎫 Ticketing & Service Management Platform
-
-**PHP • Laravel • MySQL • Web Application • Workflow Automation**
-
-A service ticketing platform designed to manage support requests, assignments, statuses and operational workflows.
-
-### Features
-
-* 🎫 Ticket creation
-* 👥 User management
-* 🔄 Ticket workflows
-* 📝 Comments
-* 📎 Attachments
-* 🔔 Notifications
-* 📊 Reporting
-* 🔐 Role-based access
-* 👨‍💻 Assignment management
-* 📈 Operational tracking
-
----
-
-# 🚌 Transport Booking System
+## 🚌 Transport Booking System
 
 **Java • Database • Software Engineering**
 
 A transport booking application developed to manage transportation services, bookings and user interactions.
 
-### Features
+### 🚀 Key Concepts
 
 * 🚌 Transport management
 * 🎫 Booking management
@@ -434,16 +362,37 @@ A transport booking application developed to manage transportation services, boo
 * 🗄️ Database integration
 * 🔐 Authentication
 * 📊 Booking records
+* 🧪 Software testing
 
 ---
 
-# 🔐 ISO 27001 Information Security Project
+## 🎫 Ticketing System
+
+**PHP • Laravel • MySQL • Web Application**
+
+A service ticketing platform designed to manage support requests, assignments, statuses and workflow processes.
+
+### ✨ Key Features
+
+* 🎫 Ticket creation
+* 👥 User management
+* 🔄 Ticket workflows
+* 📎 Attachments
+* 📝 Comments
+* 🔔 Notifications
+* 📊 Reporting
+* 🔐 Role-based access
+* 👨‍💻 Assignment management
+
+---
+
+## 🔐 ISO 27001 Information Security Project
 
 **ISO/IEC 27001 • ISO 27002 • Risk Management • Information Security**
 
-Worked on information security and ISO 27001 implementation activities, including risk assessment, risk registers and mapping organizational risks to ISO 27001:2022 controls.
+Worked on information security and ISO 27001 implementation activities, including risk assessment, risk registers and mapping organizational risks to relevant ISO 27001:2022 controls.
 
-### Areas
+### 🛡️ Areas
 
 * 🔐 Information security
 * 📋 Risk assessment
@@ -458,39 +407,47 @@ Worked on information security and ISO 27001 implementation activities, includin
 
 ---
 
+## 🌐 Personal Portfolio
+
+**HTML • CSS • JavaScript**
+
+A personal portfolio website showcasing software projects, technical skills, academic work and my software engineering journey.
+
+---
+
 # 🌍 Websites & Web Projects
 
 ## 💈 Ali Barbers Mackay
 
-Responsive business website developed for a barbering business.
+A responsive business website developed for a barbering business.
 
-🔗 https://alibarbersmackay.netlify.app/
+🔗 **Live Website:**
 
-**Technologies:**
+https://alibarbersmackay.netlify.app/
 
-`HTML` `CSS` `JavaScript` `Netlify`
+**Stack:** `HTML` `CSS` `JavaScript` `Netlify`
 
 ---
 
 ## 💻 Agile Technologies Fiji
 
-Technology-focused business website designed to present services and digital solutions.
+A technology-focused business website designed to present services and digital solutions.
 
-🔗 https://agiletechnologiesfiji.netlify.app/
+🔗 **Live Website:**
 
-**Technologies:**
+https://agiletechnologiesfiji.netlify.app/
 
-`HTML` `CSS` `JavaScript` `Netlify`
+**Stack:** `HTML` `CSS` `JavaScript` `Netlify`
 
 ---
 
-# 🧪 Software Testing
+# 🧪 Software Testing & QA
 
 **Java • Software Testing • Quality Assurance**
 
-Academic software testing projects focused on applying software testing principles and quality assurance practices.
+Academic software testing projects focused on applying testing principles, test design and quality assurance practices.
 
-### Areas
+### 🔬 Areas
 
 * 🧪 Unit testing
 * 🔍 Test case design
@@ -498,25 +455,29 @@ Academic software testing projects focused on applying software testing principl
 * 📋 Test planning
 * ✅ Quality assurance
 * ☕ Java-based testing
+* 🔄 Regression testing
+* 📊 Test documentation
 
 ---
 
-# 🛡️ Cybersecurity
+# 🛡️ Cybersecurity & Information Security
 
-My cybersecurity interests include both technical security and organizational information security.
+My security interests cover both **technical cybersecurity** and **organizational information security**.
 
-### Areas
+### 🔐 Areas
 
 * 🔐 Cybersecurity fundamentals
-* 🕵️ Ethical hacking concepts
+* 🕵️ Ethical hacking
 * 🛡️ Information security
 * 📋 Risk management
 * 🔎 Vulnerability awareness
-* 🔐 Access control
+* 👥 Access control
+* 🔑 Authentication
 * 📝 Security documentation
 * 📊 Risk registers
 * 🧩 ISO 27001
 * 📚 ISO 27002
+* 💻 Logging & monitoring
 
 ---
 
@@ -526,115 +487,12 @@ My cybersecurity interests include both technical security and organizational in
 
 Completed cybersecurity-focused learning through **Cisco Networking Academy**.
 
-### Topics
+### 📚 Topics
 
 * 🔐 Introduction to Cybersecurity
 * 🕵️ Ethical Hacking
 
-These courses provided foundational knowledge of cybersecurity concepts, threats, vulnerabilities, security practices and ethical hacking principles.
-
----
-
-# 🎓 Software Engineering Journey
-
-```text
-🎓 Software Engineering
-        │
-        ├── 💻 Programming
-        │      ├── PHP
-        │      ├── Java
-        │      ├── JavaScript
-        │      ├── Python
-        │      └── C++
-        │
-        ├── 🏗️ Software Engineering
-        │      ├── System Design
-        │      ├── Architecture
-        │      ├── Testing
-        │      └── Documentation
-        │
-        ├── 🗄️ Databases
-        │      ├── MySQL
-        │      ├── SQLite
-        │      └── SQL
-        │
-        ├── 🌐 Web Development
-        │      ├── Laravel
-        │      ├── JavaScript
-        │      ├── Bootstrap
-        │      └── Tailwind
-        │
-        ├── 🔐 Security
-        │      ├── Cybersecurity
-        │      ├── ISO 27001
-        │      └── Risk Management
-        │
-        └── 🤖 Emerging Technology
-               ├── AI-assisted development
-               ├── APIs
-               ├── Automation
-               └── Mobile development
-```
-
----
-
-# 🎯 Currently Learning
-
-```text
-🌱 Advanced Laravel
-🌱 Backend Architecture
-🌱 REST API Development
-🌱 Authentication & Authorization
-🌱 Database Optimization
-🌱 System Design
-🌱 Mobile Application Development
-🌱 Flutter
-🌱 React
-🌱 TypeScript
-🌱 DevOps & Deployment
-🌱 Cloud Technologies
-🌱 AI-assisted Development
-🌱 Cybersecurity
-🌱 Information Security
-```
-
----
-
-# 🧠 Areas I'm Interested In
-
-<table>
-<tr>
-
-<td align="center" width="25%">
-<h2>💻</h2>
-<strong>Software Development</strong>
-<br/>
-Building reliable and scalable applications.
-</td>
-
-<td align="center" width="25%">
-<h2>🏗️</h2>
-<strong>System Design</strong>
-<br/>
-Designing maintainable software architectures.
-</td>
-
-<td align="center" width="25%">
-<h2>🤖</h2>
-<strong>Artificial Intelligence</strong>
-<br/>
-Using AI to improve development workflows.
-</td>
-
-<td align="center" width="25%">
-<h2>🔐</h2>
-<strong>Cybersecurity</strong>
-<br/>
-Security and information protection.
-</td>
-
-</tr>
-</table>
+These courses provided foundational knowledge of cybersecurity concepts, threats, vulnerabilities, security practices and ethical hacking.
 
 ---
 
@@ -644,25 +502,37 @@ Security and information protection.
 
 <img src="https://img.shields.io/badge/🏆-Software%20Engineering-FFD700?style=for-the-badge" />
 <img src="https://img.shields.io/badge/🚀-System%20Builder-FF6B35?style=for-the-badge" />
-<img src="https://img.shields.io/badge/💻-Full%20Stack%20Development-007ACC?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🤖-AI%20Assisted%20Development-8E44AD?style=for-the-badge" />
+<img src="https://img.shields.io/badge/💻-Full%20Stack-007ACC?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🤖-AI%20Assisted-8E44AD?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🔐-Security-00A86B?style=for-the-badge" />
 
 </p>
 
-### ⭐ Development Highlights
+### 🏅 Development Highlights
 
-* 🏗️ Built a multi-module inventory and asset management platform
-* 📦 Developed complex inventory workflows
-* 🔐 Implemented role-based access control
-* 🔄 Developed approval and workflow systems
-* 🔌 Built API foundations for future mobile applications
-* 📊 Developed dashboards and reporting functionality
-* 🗄️ Designed relational database structures
-* 🧪 Applied software testing principles
-* 🔐 Worked with ISO 27001 information security practices
-* 🌐 Developed responsive business websites
-* 📞 Worked with contact center and business automation platforms
-* 🤖 Integrated AI-assisted development into my workflow
+🏆 Built a multi-module inventory and asset management platform
+
+🚀 Developed complex organizational and approval workflows
+
+🔐 Implemented role-based access control
+
+🔄 Built asset assignment and transfer workflows
+
+🔌 Developed API foundations for future mobile applications
+
+📊 Developed dashboards and reporting functionality
+
+🗄️ Designed relational database structures
+
+🧪 Applied software testing and quality assurance practices
+
+🔐 Worked with ISO 27001 information security concepts
+
+🌐 Developed responsive business websites
+
+📞 Worked with contact center and business automation technologies
+
+🤖 Integrated AI-assisted development into software workflows
 
 ---
 
@@ -670,7 +540,7 @@ Security and information protection.
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Faheem4468&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=Faheem4468&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
 
 </p>
 
@@ -708,55 +578,71 @@ Security and information protection.
 
 ---
 
-# 💡 What I Like Building
+# 🎯 Currently Learning
+
+```text
+🌱 Advanced Laravel Development
+🌱 Backend Architecture
+🌱 REST API Development
+🌱 Authentication & Authorization
+🌱 Database Optimization
+🌱 System Design
+🌱 Mobile Application Development
+🌱 Flutter & Dart
+🌱 React & TypeScript
+🌱 AI-Assisted Development
+🌱 Cybersecurity
+🌱 Information Security
+🌱 DevOps & Deployment
+🌱 Cloud Technologies
+🌱 Software Engineering Best Practices
+```
+
+---
+
+# 🧠 Areas I'm Interested In
 
 <table>
 <tr>
 
-<td align="center" width="33%">
-<h2>🌐</h2>
-<strong>Web Applications</strong>
-<br/>
-Business platforms and information systems.
+<td align="center" width="25%">
+
+### 💻
+
+**Software Development**
+
+Building reliable and scalable applications.
+
 </td>
 
-<td align="center" width="33%">
-<h2>📦</h2>
-<strong>Management Systems</strong>
-<br/>
-Inventory, assets and service workflows.
+<td align="center" width="25%">
+
+### 🏗️
+
+**System Design**
+
+Designing practical and maintainable systems.
+
 </td>
 
-<td align="center" width="33%">
-<h2>🤖</h2>
-<strong>AI-Powered Solutions</strong>
-<br/>
-Automation and AI-assisted development.
+<td align="center" width="25%">
+
+### 🤖
+
+**Artificial Intelligence**
+
+Exploring AI-assisted development and automation.
+
 </td>
 
-</tr>
+<td align="center" width="25%">
 
-<tr>
+### 🔐
 
-<td align="center">
-<h2>📊</h2>
-<strong>Business Intelligence</strong>
-<br/>
-Dashboards, reports and analytics.
-</td>
+**Cybersecurity**
 
-<td align="center">
-<h2>🔐</h2>
-<strong>Secure Systems</strong>
-<br/>
-Authentication, authorization and security.
-</td>
+Security, risk management and secure systems.
 
-<td align="center">
-<h2>📱</h2>
-<strong>Mobile & APIs</strong>
-<br/>
-Mobile-ready systems and REST APIs.
 </td>
 
 </tr>
@@ -764,44 +650,102 @@ Mobile-ready systems and REST APIs.
 
 ---
 
-# 🤝 Open To
+# 💡 What I Like Building
 
-* 🚀 Software development collaborations
-* 💻 Open-source projects
-* 🎓 Student and academic projects
-* 🧠 AI & technology projects
-* 🏗️ Software architecture discussions
-* 🔐 Cybersecurity projects
-* 🌐 Web development projects
-* 🤖 Automation projects
-* 📱 Mobile application projects
-* 🤝 Team-based development
-* 💡 Interesting technology ideas
+```text
+┌─────────────────────────────────────────────┐
+│                                             │
+│       💻 THINGS I LOVE BUILDING             │
+│                                             │
+│  🌐 Web Applications                        │
+│  📦 Inventory & Asset Systems               │
+│  🎫 Service Management Platforms            │
+│  🚌 Booking & Reservation Systems           │
+│  📊 Business Information Systems            │
+│  🔐 Authentication & Role Management        │
+│  📱 Mobile & Web Applications               │
+│  🔌 REST APIs                               │
+│  🗄️ Database-driven Applications            │
+│  🤖 AI-assisted Solutions                   │
+│  ⚙️ Business Automation                    │
+│  🛡️ Security & Information Systems          │
+│  🎨 User Interfaces                          │
+│                                             │
+└─────────────────────────────────────────────┘
+```
 
 ---
 
-# ⚡ Developer Mindset
+# 🧩 My Development Workflow
 
 ```text
-        THINK
-          ↓
-     UNDERSTAND
-          ↓
-       DESIGN
-          ↓
-        BUILD
-          ↓
-        TEST
-          ↓
-       IMPROVE
-          ↓
-       DEPLOY
-          ↓
-        LEARN
-          ↺
+       💡 IDEA
+          │
+          ▼
+    📋 REQUIREMENTS
+          │
+          ▼
+       🧠 ANALYSIS
+          │
+          ▼
+       🏗️ DESIGN
+          │
+          ▼
+      🗄️ DATABASE
+          │
+          ▼
+      💻 DEVELOP
+          │
+          ▼
+       🔌 API
+          │
+          ▼
+      🎨 INTERFACE
+          │
+          ▼
+       🧪 TEST
+          │
+          ▼
+      🔍 DEBUG
+          │
+          ▼
+       🚀 DEPLOY
+          │
+          ▼
+      📚 LEARN
+          │
+          └───────────────↻
 ```
 
-> **Build something useful. Learn something new. Improve every day.** 🚀
+---
+
+# 🤝 Open To
+
+🚀 Software development collaborations
+
+💻 Open-source projects
+
+🎓 Student and academic projects
+
+🤖 AI and automation projects
+
+🏗️ Software architecture discussions
+
+🔐 Cybersecurity projects
+
+🌐 Web development projects
+
+📱 Mobile application projects
+
+🧠 Interesting technology ideas
+
+🤝 Team-based development
+
+---
+
+# ⚡ Fun Fact
+
+> I enjoy turning an idea into working software — from **requirements and database design**, through **backend logic and APIs**, all the way to the **user interface and deployment**. 🚀
 
 ---
 
@@ -839,16 +783,14 @@ Mobile-ready systems and REST APIs.
 
 <p align="center">
 
-### 🚀 Thanks for visiting my profile!
+<strong>⭐ Thanks for visiting my profile! ⭐</strong>
 
-⭐ If you find something interesting, feel free to explore my repositories.
+<br><br>
 
-<br/>
-
-<strong>Keep learning. Keep building. Keep improving. 💻🔥</strong>
+<i>Keep learning. Keep building. Keep improving. 🚀</i>
 
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,35:203a43,70:2c5364,100:00c6ff&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,25:203a43,50:2c5364,75:0072ff,100:00c6ff&height=120&section=footer" />
 </p>
