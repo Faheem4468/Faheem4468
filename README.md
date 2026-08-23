@@ -27,35 +27,20 @@
 ---
 
 ## 🧑‍💻 About Me
-
 🎓 Software Engineering student and developer based in **🇫🇯 Fiji**
-
 💻 Passionate about **software development, system design, databases and technology**
-
 🚀 I enjoy building **practical software that solves real-world problems**
-
 🧩 Interested in **business systems, automation, APIs and scalable applications**
-
 🎨 Interested in **UI/UX, Figma and creative digital experiences**
-
 🤖 Exploring **AI-assisted development, automation and emerging technologies**
-
 🔐 Interested in **cybersecurity, information security and ISO 27001**
-
 🗄️ Comfortable working with **relational databases and database-driven applications**
-
 🌐 Experienced with **web applications, websites, CMS platforms and business systems**
-
 📱 Exploring **mobile application development and mobile-ready APIs**
-
 🛠️ I enjoy working across the stack — from **database design → backend → APIs → frontend → deployment**
-
 📚 Continuously learning new technologies and improving my engineering skills
-
 🤝 Open to collaborating on **software, technology and open-source projects**
-
 > **"Build something useful. Learn something new. Improve every day."** 🚀
-
 ---
 
 # 🌐 Connect With Me
